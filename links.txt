@@ -1,0 +1,3 @@
+drive: https://drive.google.com/file/d/1s2OdJgucJH2XZum3dcTdJaOFg4GWXvik/view?usp=sharing
+
+github: https://github.com/Prem23502/FarmewiseAI
